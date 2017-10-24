@@ -1,3 +1,3 @@
 # he
 cout<<""<<endl;
-cout<<"i"<<endl;
+cout<<"i"<<endl
